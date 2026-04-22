@@ -1,7 +1,7 @@
 import {
   CaptureUpdateAction,
   Excalidraw,
-  exportToSvg,
+  // exportToSvg,
   sceneCoordsToViewportCoords,
   viewportCoordsToSceneCoords,
 } from "@excalidraw/excalidraw";
